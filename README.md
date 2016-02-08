@@ -8,8 +8,8 @@ A proximidade central (Closeness Centrality) de um vértice u é a distância m�
 - Digrafo fortemente conexo.
 
 # Tecnologias
-- Algoritmo de Busca em Largura: O algoritmo realiza uma busca no grafo a partir de um vértice raiz e explora todos os vértices visitando seus vizinhos e encontrando as distâncias entre elas. No problema, utilizamos para encontrar os pesos das arestas no grafo gerado.
-- Algoritmo de Floyd-Warshall: O algoritmo resolve problema do caminho mais curto entre todos os vértices do grafo orientado. No problema, aplicamos para resolver o problema de caminho mínimo.
+- Algoritmo de Busca em Largura: O algoritmo realiza uma busca no grafo a partir de um vértice raiz e explora todos os vértices visitando seus vizinhos e encontrando as distâncias entre eles. No problema, utilizamos o algoritmo para encontrar os pesos das arestas no grafo gerado.
+- Algoritmo de Floyd-Warshall: O algoritmo resolve problema do caminho mais curto entre todos os vértices do grafo orientado.
 
 # Solução 
 - Leitura do arquivo 'edge'.
