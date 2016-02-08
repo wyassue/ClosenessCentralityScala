@@ -18,7 +18,7 @@ A proximidade central (Closeness Centrality) de um vértice u é a distância m�
 - Implementado o algoritmo de Floyd-Warshall para resolver o problema de caminho mínimo.
 - Aplicado o algoritmo de busca em largura para todos os vértices.
 - Após o resultado o BFS aplica-se o grafo no algoritmo Floyd-Warshall.
-- Com os pesos 'otimizados' é calculado as medidas de farness e closeness.
+- Com os pesos otimizados é calculado as medidas de farness e closeness.
 
 # Dependência
 - Java runtime, versão 1.8 ou superior
